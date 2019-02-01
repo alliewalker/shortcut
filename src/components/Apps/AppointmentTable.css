@@ -1,0 +1,27 @@
+
+#thead{
+    background-color: whitesmoke;
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.heading{
+    padding: 10px;
+    color: whitesmoke;
+    font-size: 30px;
+    font-family: 'Poiret One', cursive;
+}
+
+#tbody{
+    text-align: center;
+    background-color: whitesmoke;
+    font-family: 'Poiret One', cursive;   
+}
+
+#newButton{
+    box-shadow: 0 5px 16px 0 rgb(168, 168, 168);
+    position: relative;
+    left: 85%;
+}

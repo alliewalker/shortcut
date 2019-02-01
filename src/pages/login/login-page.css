@@ -1,0 +1,46 @@
+body {
+    background-image: url(https://vintagesalondistribution.com/wp-content/uploads/2017/08/vintage-hair-tools-web.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+
+}
+
+#login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    flex-direction: column;
+}
+
+#login-page form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    background-color: rgb(240, 239, 239);
+    font-family: 'Poiret One', cursive;
+    border: 1px solid black;
+ 
+}
+
+#login-page form input {
+    display: block;
+    margin: 6px;
+    padding: 2px;
+
+}
+
+button{
+    border-radius: 5px;
+}
+
+
+#toggle{
+    margin: 5px;
+    cursor: pointer;
+    color: rgb(180, 117, 53);
+    text-decoration: underline;
+}
+
