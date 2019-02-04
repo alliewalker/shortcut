@@ -12,4 +12,4 @@ switch (window.location.hostname) {
         APIURL = 'https://aw-app-server.herokuapp.com'
 }
 
-export default APIURL;
+export default 'http://localhost:3000';
