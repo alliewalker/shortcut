@@ -12,4 +12,5 @@ switch (window.location.hostname) {
         APIURL = 'https://aw-app-shortcut-project.herokuapp.com/'
 }
 
+
 export default APIURL;
