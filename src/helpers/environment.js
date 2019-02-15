@@ -7,9 +7,9 @@ switch (window.location.hostname) {
         APIURL = 'http://localhost:3000';
         break;
     // this is the deployed react application
-    case 'https://efa-shortcut.herokuapp.com/':
+    case 'https://aw-app-shortcut.herokuapp.com/':
         // this is the full url of your deployed API
-        APIURL = 'https://efa-shortcut-server.herokuapp.com/'
+        APIURL = 'https://aw-app-shortcut-project.herokuapp.com/'
 }
 
 export default APIURL;
