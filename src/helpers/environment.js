@@ -12,4 +12,4 @@ switch (window.location.hostname) {
         APIURL = 'https://efa-shortcut-server.herokuapp.com/'
 }
 
-export default 'http://localhost:3000';
+export default APIURL;
